@@ -119,7 +119,7 @@ fs_extra.outputFile(projectBase + dirs.vars + "/_vars.scss", "//all global varia
 	}
 });
 
-if(shell.exec("grunt build").code !== 0) {
-	shell.echo("Grunt file not found");
-	shell.exit(1);
-}
+// if(shell.exec("echo any").code !== 0) {
+// 	shell.echo("Grunt file not found");
+// 	shell.exit(1);
+// }
