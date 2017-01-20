@@ -1,12 +1,12 @@
 # sass-boilerplate
 Setup quick and easy sass project
 
-npm install -g grunt-cli
+<pre><code>npm install -g grunt-cli</code></pre>
 
-npm install sass-boilerplate
+<pre><code>npm install sass-boilerplate</code></pre>
 
-cd node_modules/sass-boilerplate
+<pre><code>cd node_modules/sass-boilerplate</code></pre>
 
-node bin/index.js
+<pre><code>node bin/index.js</code></pre>
 
 You can use grunt build to compile sass/scss files in src folder
